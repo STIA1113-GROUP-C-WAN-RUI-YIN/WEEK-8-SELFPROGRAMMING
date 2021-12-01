@@ -6,8 +6,8 @@ public class doWhile {
 		// TODO Auto-generated method stub
     int i=1;
 	do {
-		i=i+2;
     	System.out.println("The odd number of a day in a month is " + i);
+	i=i+2;
     }while (i<=30);
     
     
